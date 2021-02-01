@@ -1,5 +1,4 @@
-
-# Singularity recipe for [LSDalton](https://gitlab.com/dalton/lsdalton/)
+# [Singularity](https://sylabs.io/guides/latest/user-guide/) recipe(s) for [LSDalton](https://gitlab.com/dalton/lsdalton/)
 
 https://singularity-hub.org/collections/5142
 
