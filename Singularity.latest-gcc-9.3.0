@@ -26,7 +26,7 @@ From: ubuntu:20.04
     # install lsdalton
     git clone --recursive --branch ${LSDALTON_VERSION} https://gitlab.com/dalton/lsdalton.git
     cd lsdalton
-    ./setup
+    ./setup --type=debug
     cd build
     make
 
